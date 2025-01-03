@@ -15,9 +15,15 @@ let arrayOfStrings2: string[] = ['a', 'b'];
 
 // Objetos
 // Com ? a chave fica opcional
-let person: {name: string, age: number, adult?: boolean } = {
- age: 18,
- name: 'Edu',
-}
+let person: { name: string; age: number; adult?: boolean } = {
+  age: 18,
+  name: 'Edu',
+};
 
-console.log(person.name);
+// Funções
+// Tipagem dos parametros e função
+function soma (x: number, y: number): number {
+  return x + y;
+}
+const result = soma(2, 2);
+const soma2: (x: number, y: number) => number = (x, y) => x + y;
