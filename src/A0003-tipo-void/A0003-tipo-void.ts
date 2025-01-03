@@ -4,6 +4,7 @@ function noReturn(...args: string[]): void {
 }
 
 // Ponto importante: metodo seria função dentro de um objeto
+// Void quando não retorna nada
 const person = {
   name: 'Eduardo',
   surname: 'Negreiros',
