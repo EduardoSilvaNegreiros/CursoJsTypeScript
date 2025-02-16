@@ -11,11 +11,6 @@ Este repositório contém uma pasta dedicada ao estudo de **TypeScript**, que fa
 ## Tecnologias Utilizadas
 
 - [TypeScript](https://www.typescriptlang.org/)
-- [React](https://reactjs.org/)
-
-## Licença
-
-Este projeto é licenciado sob a [MIT License](LICENSE).
 
 ## Contribuições
 
