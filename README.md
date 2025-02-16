@@ -1,6 +1,6 @@
 # Estudo de TypeScript - Curso JS/React
 
-Este repositório contém uma pasta dedicada ao estudo de **TypeScript**, que faz parte do meu projeto principal do curso de **JavaScript/React**. O objetivo desta pasta é aprofundar meus conhecimentos em TypeScript enquanto continuo com o aprendizado de JavaScript e React.
+Este repositório contém uma pasta dedicada ao estudo de **TypeScript**, que faz parte do meu projeto principal do curso de **JavaScript/TypeScript**. O objetivo desta pasta é aprofundar meus conhecimentos em TypeScript enquanto continuo com o aprendizado de JavaScript e React.
 
 ## Objetivos
 
