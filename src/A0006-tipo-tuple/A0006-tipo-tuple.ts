@@ -14,7 +14,7 @@ console.log(dataCustomer4);
 
 // Readonly array
 const array1: readonly string[] = ['Edu', 'Silva'];
-const array2: ReadonlyArray<string> = ['Edu', 'Silva'];
+const array2: ReadonlyArray<string> = ['Edu', 'Negreiros'];
 
 console.log(array1);
 console.log(array2);
