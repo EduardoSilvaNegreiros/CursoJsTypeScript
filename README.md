@@ -16,7 +16,7 @@ Este repositório contém uma pasta dedicada ao estudo de **TypeScript**, parte 
 
 ![Captura de tela 2025-03-05 170516](https://github.com/user-attachments/assets/291ed758-442e-48c4-8145-9e84d411ffd1)  
 ![Captura de tela 2025-03-05 170509](https://github.com/user-attachments/assets/d7dcb13d-0411-42c5-9c19-c5c9b185e313)  
-![Captura de tela 2025-03-06 095021](https://github.com/user-attachments/assets/10168bf0-43f2-44f6-8fb1-92f4e575bc1c)
+![Captura de tela 2025-03-06 095858](https://github.com/user-attachments/assets/27f19688-ad7e-483c-91f7-66c5e00f164b)
 
 
 ## 🤝 Contribuições  
