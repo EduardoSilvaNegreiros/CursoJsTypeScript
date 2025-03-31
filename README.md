@@ -23,4 +23,4 @@ Este repositório contém uma pasta dedicada ao estudo de **TypeScript**, parte 
 
 ## 🤝 Contribuições  
 
-Sinta-se à vontade para abrir [issues](https://github.com/seu-repositorio/issues) ou enviar [pull requests](https://github.com/seu-repositorio/pulls) para melhorias neste projeto.  
+Sinta-se à vontade para abrir [issues](https://github.com/seu-repositorio/issues) ou enviar [pull requests](https://github.com/seu-repositorio/pulls) para poder melhorar este projeto.  
